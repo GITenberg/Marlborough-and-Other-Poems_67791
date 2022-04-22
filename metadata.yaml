@@ -1,11 +1,16 @@
 _repo: Marlborough-and-Other-Poems_67791
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67791-h/images/cover.jpg
 creator:
   author:
     agent_name: Sorley, Charles Hamilton
     gutenberg_agent_id: '54459'
     url: http://www.gutenberg.org/2009/agents/54459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67791#Marlborough-and-Other-Poems
 gutenberg_issued: '2022-04-07'
 identifiers:
   gutenberg: '67791'
